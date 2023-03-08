@@ -5,3 +5,6 @@ class Vampire:
 
     def vamp_info(self):
         print(f'Name: {self.name} | Age: {self.age}')
+
+
+new_body = Vampire('Mark', 1242)
